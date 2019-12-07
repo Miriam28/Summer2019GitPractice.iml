@@ -4,3 +4,4 @@ blue
 git git add .
 white
 purple
+gloden
