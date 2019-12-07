@@ -12,3 +12,4 @@ pink
 Gray
 Tan
 Cyan
+Cyber Yellow
