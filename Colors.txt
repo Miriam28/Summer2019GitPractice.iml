@@ -9,4 +9,5 @@ gloden
 navy blue
 orange
 pink
+Gray
 
