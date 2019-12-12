@@ -3,3 +3,4 @@ Dog
 Lion
 Tiger
 Rabbit
+Wolf
